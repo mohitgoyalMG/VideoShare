@@ -1,0 +1,133 @@
+
+
+body
+{
+background:url('4.jpg');
+}
+
+p.nav
+{
+background-color:xblack;
+}
+
+p.success
+{
+color:black;
+font-family:Comic Sans MS;
+font-size:35px;
+}
+
+p.topic
+{
+background:black;
+color:white;
+text-decoration:none;
+}
+
+p.login
+{
+word-spacing:95px;
+}
+
+p.reg
+{
+word-spacing:95px;
+}
+
+p.tryagain
+{
+color:black;
+font-family:Comic Sans MS;
+font-size:35px;
+}
+
+p.wel
+{
+color:black;
+font-size:15px;
+text-align:right;
+}
+
+a.nav:link {text-decoration:none; color:white; background:black;}
+a.nav:visited {text-decoration:none; color:white; background:black;}
+a.nav:hover {text-decoration:underline; color:white; background:black;}
+a.nav:active {text-decoration:underline; color:white; background:black;}
+
+a.cat:link {text-decoration:none; color:black; background:transperent; font-size:40px}
+a.cat:visited {text-decoration:none; color:black; background:transperent; font-size:40px}
+a.cat:hover {text-decoration:underline; color:white; background:black; font-size:40px}
+a.cat:active {text-decoration:underline; color:black; background:black; font-size:40px}
+
+a.success:link {text-decoration:none; color:blue; background:white;}
+a.success:visited {text-decoration:none; color:blue; background:white;}
+a.success:hover {text-decoration:underline; color:white; background:black;}
+a.success:active {text-decoration:underline; color:blue; background:white;}
+
+a.reg:link {text-decoration:underline; color:black; background:none;}
+a.reg:visited {text-decoration:underline; color:black; background:none;}
+a.reg:hover {text-decoration:underline; color:white; background:black;}
+a.reg:active {text-decoration:underline; color:black; background:none;}
+
+a:link {text-decoration:underline; color:blue; background:none;}
+a:visited {text-decoration:none; color:blue; background:none;}
+a:hover {text-decoration:underline; color:white; background:black;}
+a:active {text-decoration:none; color:blue; background:none;}
+
+a.tryagain:link {text-decoration:none; color:blue; background:white;}
+a.tryagain:visited {text-decoration:none; color:blue; background:white;}
+a.tryagain:hover {text-decoration:underline; color:white; background:black;}
+a.tryagain:active {text-decoration:underline; color:blue; background:white;}
+
+#vid
+{
+margin-left:10px;
+}
+
+#wrap
+{
+margin-top:0px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+height:auto;
+}
+
+#logo
+{
+width:750px;
+height:50px;
+}
+
+#content
+{
+display:inline;
+float:left;
+width:750px;
+background: url('3.jpg');
+
+}
+
+#sidebar
+{
+border-radius:30px;
+width:200px;
+background: url('3.jpg');
+border:1px ridge grey;
+position:fixed;
+margin-left:800px;
+float:right;
+}
+
+#login
+{
+margin-left:240px;
+margin-right:200px;
+color:black;
+}
+
+#reg
+{
+margin-left:240px;
+margin-right:200px;
+color:black;
+}
